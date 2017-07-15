@@ -1,4 +1,4 @@
-FROM sdhibit/mono-media:5.4
+FROM sdhibit/mono:5.4
 MAINTAINER Steve Hibit <sdhibit@gmail.com>
 
 # Install apk packages
